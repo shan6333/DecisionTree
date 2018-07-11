@@ -61,6 +61,7 @@ def main():
     #print solutions 
     file.write("\tprint (\"entry%s = %s\" % (count, result))\n")
     print "written program"
+    print "ok"
     
     
 if __name__ == '__main__':

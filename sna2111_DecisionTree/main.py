@@ -7,7 +7,7 @@ def main():
     """
     file = open('SoybeanTraining.csv')
     """
-    IMPORTANT: Change this variable too change target attribute 
+    IMPORTANT: Change this variable to change target attribute 
     """
     target = "class"
     data = [[]]
